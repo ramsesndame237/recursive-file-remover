@@ -3,8 +3,12 @@
  */
 import * as fs from "fs";
 
-export const isDirectory(path:string) =>{
-    return fs.lstatSync(path).isDirectory();
+export const isDirectory = (pathString:string) =>{
+    return fs.lstatSync(pathString).isDirectory();
+}
+
+export const isFile  = (pathString:string) =>{
+    return fs.lstatSync(pathString).isFile()
 }
 
 
