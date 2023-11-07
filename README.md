@@ -52,3 +52,38 @@ removeFilesRecursive("/path/to/directory");
 import { removeFilesRecursive } from "remove-file-recursive";
 
 removeFilesRecursive("/path/to/file");
+
+## Tests
+
+To run the tests, run the following command:
+
+
+npm test
+
+
+## Documentation
+
+The documentation is available in the docs: docs directory.
+
+## Support
+
+If you have any questions or problems, please feel free to open an issue on GitHub.
+
+## Contributing
+
+Contributions are welcome! Please see the contributing: CONTRIBUTING.md guide for more information.
+
+
+I hope this is helpful!
+
+
+# delete-recursive
+
+A library for recursively deleting files and directories.
+
+
+```
+<a href="https://www.buymeacoffee.com/njohndamevw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+```
+
+
