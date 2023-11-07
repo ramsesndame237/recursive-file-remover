@@ -1,6 +1,6 @@
 {
   "name": "recursive-file-remover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Un package npm pour supprimer récursivement des fichiers à partir d'un répertoire et de ses sous-répertoires.",
   "main": "index.js",
   "scripts": {
